@@ -1,0 +1,5 @@
+model,train accuracy,cv accuracy,test accuracy,train time seconds
+Logistic Regression (baseline),0.9262,0.9242,0.9214,0.64
+Decision Tree,1.0,0.8958,0.8917,0.4
+Random Forest,1.0,0.924,0.9218,10.4
+HistGradientBoosting,0.9869,0.9292,0.9221,1.46
